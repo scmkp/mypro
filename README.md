@@ -1,5 +1,4 @@
 # mypro
-ruby-study
 git init  
 git add *  
 git commit -m "first commit"  
